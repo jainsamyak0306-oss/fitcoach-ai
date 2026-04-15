@@ -42,7 +42,7 @@ fitcoach-AI/
 
 ## 👨‍💻 Author
 
-Yuvraj Dhankar
+Samyak Jain
 
 ---
 
