@@ -22,7 +22,7 @@
 
 ## 🚀 Live Demo
 
-([fitcoachh-ai.netlify.app](https://fitcoachh-ai.netlify.app/login.html))
+(https://brilliant-selkie-aa09f2.netlify.app/)
 
 ## 📂 Project Structure
 
